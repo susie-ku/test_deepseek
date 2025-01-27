@@ -1,6 +1,6 @@
-# Reproducing the Alignment Faking Paper of Deepseek-r1
+# Reproducing the Alignment Faking Paper on Deepseek-r1
 
-This repository aims to reproduce the experiment from **Alignment Faking** paper by **Deepseek-r1**. You can access the paper [here](https://arxiv.org/abs/2412.14093). The project includes various scripts for running specific experiments and analyzing outputs. Below is an overview of the main components in the repository.
+This repository aims to reproduce the experiment from **Alignment Faking** paper on **Deepseek-r1**. You can access the paper [here](https://arxiv.org/abs/2412.14093). The project includes various scripts for running specific experiments and analyzing outputs. Below is an overview of the main components in the repository.
 
 ## Table of Contents
 - [Overview](#overview)
